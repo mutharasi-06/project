@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.22631.5039]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\New folder>python python.py
+Enter the path of the image: https://en.m.wikipedia.org/wiki/File:Red_Apple.jpg
+The name of the image is: File:Red_Apple.jpg
+
+
+
+
